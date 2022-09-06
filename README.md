@@ -2,15 +2,16 @@
 
 Baixe o repositório usando o comando
 
+    git clone https://github.com/SrLuppo/Desafio-API.git 
 
-instale as dependências do projeto utilizando o comando:
+Abra o terminal e instale as dependências do projeto utilizando o comando:
 
-composer install
+    composer install
 
-Configure a localização do banco de dados no arquivo .ENV
+Configurar o banco de dados no arquivo .ENV
 
 Após inicialize o servidor usando:
 
-php artisan serve
+    php artisan serve
 
-Utilize um API Client para testar a API como por POSTMAN.
+Utilize um API Client para testar a API como por exemplo INSOMNIA, POSTMAN etc.
