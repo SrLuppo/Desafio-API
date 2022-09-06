@@ -20,16 +20,6 @@
     <body>
        
         <h1>Desafio de Api para a Empresa SOFTWAR</h1>
-
-        <p>Baixe o repositório e instale as dependências do projeto utilizando o comando:</p>
-        <p>composer install</p>
-        <p>Configure a localização do banco de dados no arquivo .ENV </p>
-        <p>Após inicialize o servidor usando:</p>
-        <p>php artisan serve</p>
-        <p>Utilize um API Client para testar a API como por POSTMAN.</p>
-        <p>Acessar via API client usando o metodo GET o endereço: </p>
-        <p>http://127.0.0.1:8000/api/ranking</p>
-
    
     </body>
 </html>
