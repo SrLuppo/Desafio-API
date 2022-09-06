@@ -15,3 +15,7 @@ Após inicialize o servidor usando:
     php artisan serve
 
 Utilize um API Client para testar a API como por exemplo INSOMNIA, POSTMAN etc.
+
+Pelo API client acesse o endereço:
+
+    http://127.0.0.1:8000/api/ranking
